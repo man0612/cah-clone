@@ -11,19 +11,6 @@ The project uses:
 
 ---
 
-# Live Links
-
-Frontend  
-https://your-frontend-url.vercel.app
-
-Payload CMS Admin  
-https://your-cms-url.vercel.app/admin
-
-Medusa Backend  
-https://your-medusa-url.onrender.com
-
----
-
 # Tech Stack
 
 ## Frontend
